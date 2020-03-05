@@ -1,0 +1,37 @@
+.container{
+    width: 700px;
+}
+table {
+    border-collapse: collapse;
+}
+.img1 {
+    border-radius: 30px;
+    margin: 30px;
+}
+.td1 {
+    text-align: right;
+    width: 200px;
+    background-color: blueviolet;
+}
+.td2 {
+    text-align: left;
+    width: 600px;
+    background-color: blueviolet;
+    font-size: 25px;
+    font-family: monospace;
+}
+.td3 {
+    width: 200px;
+    height: 700px;
+    margin-left: 20px;
+    background-color: wheat;
+}
+.td4 {
+    width: 200px;
+    height: 700px;
+    background-color: darkgrey;
+}
+.content{
+    margin-top: 30px;
+    margin-left: 20px;
+}
